@@ -1,0 +1,12 @@
+{
+  "name": "@lamp-project/dictionary",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@lamp-project/nlp-utils": "^1.3.4",
+    "lodash": "^4.17.21"
+  }
+}
